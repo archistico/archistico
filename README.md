@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **emilie@rollandin.it**
 
-- 📺 My videos are available here [https://www.youtube.com/](https://www.youtube.com/)
+- 📺 My codewars are available here [https://www.codewars.com/users/archistico](https://www.codewars.com/users/archistico)
 
 - ⚡ Fun fact **I'm a cool girl ;)**
 
