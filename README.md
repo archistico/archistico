@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently working on [Blog+Symfony+Tailwindcss+2FA+Markdown](https://github.com/archistico/blogtw)
 
-- 🌱 I’m currently learning **Symfony, Tailwind, Docker**
+- 🌱 I’m currently learning **Symfony, API platform, Python**
 
 - 👯 I share mostly on [GitHub](https://github.com/archistico)
 
-- 🤝 I’m looking for help with [Blog+Symfony+Tailwindcss+2FA+Markdown](https://github.com/archistico/blogtw)
-
 - 👨‍💻 All of my projects are available at [https://github.com/archistico](https://github.com/archistico)
 
-- 📝 I regularly write articles on [https://archistico.com/blog](https://archistico.com/blog)
+- 📝 I regularly write articles on [https://supercat.dev](https://supercat.dev)
 
 - 💬 Ask me about **Symfony**
 
