@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emilie Rollandin</h1>
 <h3 align="center">PHP Symfony backend developer, Architect</h3>
 
-- 🔭 I’m currently working on [Blog+Symfony+Tailwindcss+2FA+Markdown](https://github.com/archistico/blogtw)
+- 🔭 I’m currently working on [private income/outflow management](https://github.com/archistico/webinout)
 
-- 🌱 I’m currently learning **Symfony, API platform, Python**
+- 🌱 I’m currently learning **Symfony, C#**
 
 - 👯 I share mostly on [GitHub](https://github.com/archistico)
 
