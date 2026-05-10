@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emilie Rollandin</h1>
 <h3 align="center">PHP, Symfony, C# backend developer, Architect</h3>
 
-- 🔭 I’m currently working on [A simple cross-platform tool to hide files inside PNG images ](https://github.com/archistico/ShadeOfColor2)  
+- 🔭 I’m currently working on [OpenCad2d](https://github.com/archistico/OpenCad2D)
 - 🌱 I’m currently learning **Symfony, C#**  
 - 👯 I share mostly on [GitHub](https://github.com/archistico)  
 - 👨‍💻 All of my projects are available at [https://github.com/archistico](https://github.com/archistico)  
